@@ -1,0 +1,5 @@
+============
+Plain New Project in CakePHP1.3
+
+things I change:
+1. web.config for IIS7 (this version is using in 2.0 but works perfectly)
